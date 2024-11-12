@@ -39,4 +39,4 @@ build/
 .DS_Store
 
 ## Log file ##
-.flexifile.log
+flexifile.log
